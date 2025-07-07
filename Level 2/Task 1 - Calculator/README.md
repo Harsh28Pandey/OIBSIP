@@ -1,4 +1,4 @@
-# 🧮 Modern Calculator App
+# Task 1: 🧮 Calculator App
 
 A beautifully designed, fully functional calculator app built using **HTML**, **CSS (Glassmorphism)**, and **JavaScript**. This project showcases how to build an interactive and responsive calculator with modern UI design and essential arithmetic functionalities.
 
