@@ -26,7 +26,7 @@ This is a clean, animated To-Do List web application built using **HTML**, **CSS
 
 ## ✅ Submission Details
 
-- **Task Name:** Calculator App
+- **Task Name:** To-Do Web App
 - **Internship Program:** Oasis Infobyte Web Development and Designing Internship 
 - **Status:** ✅ Completed & Submitted  
 
