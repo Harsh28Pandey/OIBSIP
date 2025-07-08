@@ -20,7 +20,6 @@ This project is ideal for beginner and intermediate developers looking to create
 
 - `index.html` - Structure of the calculator interface.
 - `style.css` - Modern glassmorphism UI styling.
-- `script.js` - Handles button logic and evaluation.
 - `README.md` - This file 
 
 ---
