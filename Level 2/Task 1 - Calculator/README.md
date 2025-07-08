@@ -27,10 +27,10 @@ A beautifully designed, fully functional calculator app built using **HTML**, **
 
 ## 📁 Folder Structure
 
-- `index.html` – Structure of the calculator interface.
-- `style.css` – Modern glassmorphism UI styling.
+- `index.html` - Structure of the calculator interface.
+- `style.css` - Modern glassmorphism UI styling.
 - `script.js` - Handles button logic and evaluation.
-- `README.md` – This file 
+- `README.md` - This file 
 
 ---
 
