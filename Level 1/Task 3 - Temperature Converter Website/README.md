@@ -33,10 +33,10 @@ This is a simple, elegant **Temperature Converter** that allows users to convert
 
 ## 📁 Folder Structure
 
-- `index.html` – Structured UI for temperature input.
-- `style.css` – Modern design with gradient effects.
+- `index.html` - Structured UI for temperature input.
+- `style.css` - Modern design with gradient effects.
 - `script.js` - Handles conversion logic and validation.
-- `README.md` – This file 
+- `README.md` - This file 
 
 ---
 
